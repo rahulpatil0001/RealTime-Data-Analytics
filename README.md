@@ -40,6 +40,7 @@ This dashboard allows users to:
 🔹 RSI Chart Example
 
 🧠 How It Works
+
 1️⃣ Fetching Data
 
 We use the yfinance API:
